@@ -1,0 +1,122 @@
+[
+    {
+        "protocol": "Apathy",
+        "set": "AX01"
+    },
+    {
+        "protocol": "Hate",
+        "set": "AX01"
+    },
+    {
+        "protocol": "Love",
+        "set": "AX01"
+    },
+    {
+        "protocol": "Assimilation",
+        "set": "AX02"
+    },
+    {
+        "protocol": "Diversity",
+        "set": "AX02"
+    },
+    {
+        "protocol": "Unity",
+        "set": "AX02"
+    },
+    {
+        "protocol": "Darkness",
+        "set": "MN01"
+    },
+    {
+        "protocol": "Death",
+        "set": "MN01"
+    },
+    {
+        "protocol": "Fire",
+        "set": "MN01"
+    },
+    {
+        "protocol": "Gravity",
+        "set": "MN01"
+    },
+    {
+        "protocol": "Life",
+        "set": "MN01"
+    },
+    {
+        "protocol": "Light",
+        "set": "MN01"
+    },
+    {
+        "protocol": "Metal",
+        "set": "MN01"
+    },
+    {
+        "protocol": "Plague",
+        "set": "MN01"
+    },
+    {
+        "protocol": "Psychic",
+        "set": "MN01"
+    },
+    {
+        "protocol": "Speed",
+        "set": "MN01"
+    },
+    {
+        "protocol": "Spirit",
+        "set": "MN01"
+    },
+    {
+        "protocol": "Water",
+        "set": "MN01"
+    },
+    {
+        "protocol": "Chaos",
+        "set": "MN02"
+    },
+    {
+        "protocol": "Clarity",
+        "set": "MN02"
+    },
+    {
+        "protocol": "Corruption",
+        "set": "MN02"
+    },
+    {
+        "protocol": "Courage",
+        "set": "MN02"
+    },
+    {
+        "protocol": "Fear",
+        "set": "MN02"
+    },
+    {
+        "protocol": "Ice",
+        "set": "MN02"
+    },
+    {
+        "protocol": "Luck",
+        "set": "MN02"
+    },
+    {
+        "protocol": "Mirror",
+        "set": "MN02"
+    },
+    {
+        "protocol": "Peace",
+        "set": "MN02"
+    },
+    {
+        "protocol": "Smoke",
+        "set": "MN02"
+    },
+    {
+        "protocol": "Time",
+        "set": "MN02"
+    },
+    {
+        "protocol": "War",
+        "set": "MN02"
+    }
+]
